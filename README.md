@@ -3,11 +3,11 @@
     <img align = "right" src="https://uizentrum.de/wp-content/uploads/2020/05/gis-to-web-gis-6.png" alt="WEBGIS" width="1000" height="500"//>
   </a>
 
-##WebGIS Learning Journey: Making a Positive Impact
+## WebGIS Learning Journey: Making a Positive Impact
 
 Welcome to my WebGIS learning journey! As I delve into the world of geospatial data and interactive maps using ArcGIS Maps SDK for JavaScript, I'm excited about the immense impact I can make both socially and academically.
 
-##Social Relevance:
+## Social Relevance:
 
 Through WebGIS, I can contribute to solving real-world challenges and making a positive impact on society. By visualizing and analyzing geospatial data, I can aid in understanding complex issues such as environmental changes, urban planning, disaster management, and public health. These insights can help decision-makers create more sustainable and resilient communities.
 
@@ -15,7 +15,7 @@ WebGIS also offers opportunities to promote inclusivity and accessibility by cre
 
 Furthermore, WebGIS enables the integration of crowdsourced data and citizen science, empowering communities to actively participate in data collection and analysis. By involving the public, I can foster a sense of ownership and awareness, encouraging responsible stewardship of our planet.
 
-##Academic Relevance:
+## Academic Relevance:
 
 In the academic realm, WebGIS opens doors to various research opportunities. I can conduct spatial analysis, explore patterns, and generate meaningful insights in disciplines like geography, environmental science, urban studies, and social sciences.
 
